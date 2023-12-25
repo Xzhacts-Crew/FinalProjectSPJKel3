@@ -1,0 +1,62 @@
+# Penjelasan Konfigurasi 1
+  - pilih Option 2 karena kita mau set interface IP addressnya.
+  - setelah itu pilih nomer 1 yaitu LAN (le1 - dhcp)
+  - configurasi ipv4 via dhcp pilih opsi Y
+
+# Penjelasan Konfigurasi 2
+  - selebihnya pilih opsi no semua, karena kita tidak menggunakan ipv6 lalu dia akan mulai memproses
+
+# Penjelasan Konfigurasi 3
+  - Setelah selesai memproses, kita akan mendapatkan URL yang akan kita gunukan untuk masuk kehalaman
+    dashboard login opnsense. (https://192.168.18.232)
+
+# Penjelasan Konfigurasi 4
+  - Untuk username & Password jika dalam penginstalan awal kita tidak merubah passwordnya samasekali,
+    kita login saja menggunakan password default dari Opnsense yaitu Username: root
+								     Password: opnsense 
+
+
+
+=============================================================================>
+# Penjelasan Gambar 1
+
+Konfigurasi IDS pada OPNSense
+
+- Pada bagian ini menjelaskan mengenai tahapan 
+  konfigurasi IDS pada OPNSense, Langkahlangkahnya sebagai berikut :
+  1. klik pada menu “service” pilih sub menu 
+  “Intrusion Detection”. Kemudian pada bar menu, 
+  pilih “Download”, setelah itu beri tanda centang 
+  pada semua paket suricata yang akan di download. 
+  lalu klik “enable selected”. Kemudian klik 
+  “Download & Update Rules”
+
+# Penjelasan Gambar ke 2
+
+- Lihat pada tab rules sudah terlihat paket suricata yang sudah terdownload.
+
+
+# Penjelasan Gambar ke 3
+
+- kemudian beralih ke tab setting. Beri tanda 
+centang pada “Enable”, “IPS Mode”, dan 
+“Promiscuous mode”, pada bagian pattern matcher 
+lalu pilih “Hyperscan”, pada bagian interfaces pilih 
+“LAN, WAN” lalu Apply. IDS Siap digunakan
+
+# Penjelasan Gambar ke 4.1 & 4.2
+
+- Kita melakukan PING terlebih dahulu Web server yang telah kita buat, jika berhasil
+  maka Opnsense akan mendeteksi adanya aktivitas yang sedang terjadi pada web server kita.
+
+# Penjelasan Gambar ke 5
+
+- Kita lihat pada bagian tab alert sudah ada beberapa packet yang telah terdeteksi oleh Opnsense
+
+=============================================================>
+Selanjutnya anda akan memasukan konfigurasi VPN dalam opnsense ini. Tutorial akan saya sertakan 
+dibawah ini:
+	https://homenetworkguy.com/how-to/configure-openvpn-opnsense/
+	https://www.sparklabs.com/support/kb/article/setting-up-an-openvpn-server-with-opnsense-and-viscosity/
+--------
+Jika ada pertanyaan silahkan menghubungi mas marlim.
