@@ -18,17 +18,17 @@ Langkah-langkah konfigurasi :
   
   C. Configurasi ipv4 via dhcp pilih opsi Y
 
-![konfigurasi](img/konfigurasi%201.jpeg)
+  ![konfigurasi](img/konfigurasi%201.jpeg)
 
 
 - selebihnya pilih opsi no semua, karena kita tidak menggunakan ipv6 lalu dia akan mulai memproses
 
-![konfigurasi](img/konfigurasi%202.jpeg)
+  ![konfigurasi](img/konfigurasi%202.jpeg)
 
 
 - Setelah selesai memproses, kita akan mendapatkan URL yang akan kita gunukan untuk masuk kehalaman dashboard login opnsense. (https://IP_OPNsense)
 
-![konfigurasi](img/konfigurasi%203.jpeg)
+  ![konfigurasi](img/konfigurasi%203.jpeg)
 
 
 - Untuk username & Password jika dalam penginstalan awal kita tidak merubah passwordnya sama sekali, login saja menggunakan password default dari Opnsense yaitu 
@@ -37,4 +37,4 @@ Langkah-langkah konfigurasi :
 
   Password: opnsense 
 
-![konfigurasi](img/konfigurasi%204.jpeg)
+  ![konfigurasi](img/konfigurasi%204.jpeg)
