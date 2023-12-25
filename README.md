@@ -3,8 +3,7 @@
 </div>
 
 # Final Project SPJ Kel 3
-<img src="https://img.shields.io/badge/country-indonesia-blue.svg" />
-<img src="https://img.shields.io/badge/Linux-Ubuntu-blue?&logo=ubuntu" />
+<img src="https://img.shields.io/badge/country-indonesia-blue.svg" /> <img src="https://img.shields.io/badge/Linux-Ubuntu-blue?&logo=ubuntu" />
 
 
 Web Server And Database Security With OPNsense
