@@ -421,7 +421,7 @@ Konfigurasi VPN atau OpenVPN pada OPNsense
   
   ![VPN](img/vpn8.jpg)
 
-  D. Setelah berhasil mengimpor konfigurasi klien OpenVPN, klik kanan ikon OpenVPN di bilah tugas dan pilih file konfigurasi yang baru diimpor.
+  D. Setelah berhasil mengimpor konfigurasi klien OpenVPN, klik kanan ikon OpenVPN di bilah tugas dan pilih file konfigurasi yang baru diimpor dan masukkan username dan juga password.
 
   ![VPN](img/vpn8.1.jpg)
 
