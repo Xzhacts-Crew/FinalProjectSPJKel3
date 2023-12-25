@@ -117,6 +117,7 @@ Konfigurasi VPN atau OpenVPN pada OPNsense
   ![VPN](img/vpn1.1.jpg)
 
 
+
 - Creating a Server Certificate
   A. Masuk ke System → Trust → Certificates.
   
@@ -161,6 +162,7 @@ Konfigurasi VPN atau OpenVPN pada OPNsense
   R. Click Save.
 
   ![VPN](img/vpn2.3.jpg)
+
 
 
 - Creating a VPN User
@@ -235,6 +237,7 @@ Konfigurasi VPN atau OpenVPN pada OPNsense
     ![VPN](img/vpn3.6.jpg)
 
 
+
 - Add TOTP Access Server
   A. Masuk ke System > Access > Servers.
 
@@ -251,6 +254,7 @@ Konfigurasi VPN atau OpenVPN pada OPNsense
   F. Klik Simpan untuk menambahkan server TOTP.
 
   ![VPN](img/vpn4.1.jpg)
+
 
 
 - Add OpenVPN Server
@@ -345,6 +349,7 @@ Konfigurasi VPN atau OpenVPN pada OPNsense
   ![VPN](img/vpn5.6.jpg)
 
 
+
 - Add Firewall Rules
   1. Allow traffic from clients to VPN server
 
@@ -387,6 +392,7 @@ Konfigurasi VPN atau OpenVPN pada OPNsense
     ![VPN](img/vpn6.4.jpg)
 
 
+
 - Export OpenVPN Client
   A. Masuk ke VPN > OpenVPN > Client Export
 
@@ -403,6 +409,7 @@ Konfigurasi VPN atau OpenVPN pada OPNsense
   F. Klik tombol unduh di sebelah pengguna klien VPN, vpnuser1.
 
   ![VPN](img/vpn7.1.jpg)
+
 
 
 - Connecting from a Windows PC client
