@@ -23,7 +23,7 @@
 Konfigurasi IDS pada OPNSense
 
 - Pada bagian ini menjelaskan mengenai tahapan 
-  konfigurasi IDS pada OPNSense, Langkahlangkahnya sebagai berikut :
+  konfigurasi IDS pada OPNSense, Langkah-langkahnya sebagai berikut :
   1. klik pada menu “service” pilih sub menu 
   “Intrusion Detection”. Kemudian pada bar menu, 
   pilih “Download”, setelah itu beri tanda centang 

@@ -38,3 +38,16 @@ Langkah-langkah konfigurasi :
   Password: opnsense 
 
   ![konfigurasi](img/konfigurasi%204.jpeg)
+
+
+### Konfigurasi IDS pada OPNsense
+Konfigurasi IDS OPNsense
+
+- Pada bagian ini menjelaskan mengenai tahapan 
+  konfigurasi IDS pada OPNSense, Langkah-langkahnya sebagai berikut :
+  1. klik pada menu “service” pilih sub menu 
+  “Intrusion Detection”. Kemudian pada bar menu, 
+  pilih “Download”, setelah itu beri tanda centang 
+  pada semua paket suricata yang akan di download. 
+  lalu klik “enable selected”. Kemudian klik 
+  “Download & Update Rules”
