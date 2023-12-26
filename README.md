@@ -22,9 +22,12 @@ kelik Tombol atau installasi di bawah ini untuk melihat alur installasi dan conf
 
 
 ## Team
-  1. Yusuf Nur Hanafi                     22.83.0810
-  2. Lalu Muhammad Syamsul hadi           22.83.0766
-  3. Luqman Muhammad Ammar                22.83.0761
-  4. Syahrul                              22.83.0824
-  5. Faris Naufal Marzuki                 22.83.0801
-  6. Dose Wisnu Pratama                   22.83.0768
+
+| Nama  | Nim |
+| ----- | --- |
+| Yusuf Nur Hanafi | 22.83.0810 |
+| Lalu Muhammad Syamsul hadi | 22.83.0766 |
+| Luqman Muhammad Ammar | 22.83.0761 |
+| Syahrul | 22.83.0824 |
+| Faris Naufal Marzuki | 22.83.0801 |
+| Dose Wisnu Pratama | 22.83.0768 |
